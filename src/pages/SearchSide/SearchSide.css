@@ -1,0 +1,118 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.odin{
+    background-color: #1E213A;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.ButtonArea{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4%;
+    
+}
+
+.Search4places{
+    background-color: #6E707A;
+    color: white;
+    height: 35px;
+    border-radius: 2px;
+    width: 135px;
+}
+
+.locationUser{
+    display: flex;
+    background-color: #6E707A;;
+    height: 
+    28px;
+    width: 
+    28px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 5px;
+    justify-content: center;
+}
+
+.weatherImageToday{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    margin-top: 70px;
+    justify-content: center;
+}
+
+.ImgToday{
+    display: flex;
+    height: 150px;
+    
+}
+
+.weatherTemperatureToday{
+    color: white;
+    font-size: 2.0rem;
+}
+
+.weatherTextState{
+    color: white;
+}
+
+.todaysDate{
+    color: white;
+}
+
+.UserCity{
+    color: white;
+    margin-top: 20px;
+}
+
+.cloud1{
+    background-image: url('../../images/cloudcerta.png');
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    opacity: 5%;
+    border: none;
+    margin-left: 70%;
+    margin-top: -10px;
+}
+
+.clouds{
+    position: absolute;
+    opacity: 2.5%;
+    width: 200px;
+    height: 100px;
+    left: 280px;
+    top: 200px;
+}
+
+.clouds2{
+    position: absolute;
+    opacity: 2.5%;
+    width: 200px;
+    height: 100px;
+    left: 280px;
+    top: 60px;
+}
+
+.clouds3{
+    position: absolute;
+    opacity: 2.5%;
+    width: 200px;
+    height: 100px;
+    left: -90px;
+    top: 60px;
+}
+
+.clouds4{
+    position: absolute;
+    opacity: 2.5%;
+    width: 200px;
+    height: 100px;
+    left: -90px;
+    top: 200px;
+}

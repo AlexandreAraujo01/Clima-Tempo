@@ -1,0 +1,85 @@
+.Zeus{
+    background-color: #1E213A;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.button4search{
+    border: 1px solid white;
+    background-color: transparent;
+    margin-right: 10px;
+    height: 35px;
+    width: 220px;
+    color: white;
+}
+
+.LocalButtons{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.submitCity{
+    width: 60px;
+    color: white;
+    background-color:#3C47E9 ;
+    height: 40px;
+}
+
+.exitButton{
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    color: white;
+    top: 10px;
+    left: 330px;
+    font-size: 1.0rem;
+   
+}
+
+.displayCitys{
+    display: flex;
+    justify-content: center;
+}
+
+.citysDemonstrations{
+    border: 1px solid white;
+    height: 50px;
+    width: 300px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.openList{
+    position: absolute;
+    color: white;
+    left: 23%;
+    bottom:77%;
+    font-size: 20px;
+}
+
+.openList:hover{
+    color: #FFEC65;
+}
+
+
+
+.citysDemonstrations1{
+    border: 1px solid white;
+    height: 250px;
+    width: 300px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.citys{
+    color: white;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.185);
+    margin-top: 30px;
+}
+
+.citys:hover{
+    color: #3C47E9;
+}

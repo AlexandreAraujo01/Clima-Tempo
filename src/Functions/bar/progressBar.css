@@ -1,0 +1,18 @@
+.progress-div {
+    background-color: rgb(255, 255, 255);
+    border-radius: 5rem;
+}
+
+.progress {
+    background-color: #FFEC65;
+    height: 10px;
+    border-radius: 1rem;
+    transition: 1s ease;
+    transition-delay: 0.5s;
+}
+
+.topBar{
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+}
